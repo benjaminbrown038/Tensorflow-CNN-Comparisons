@@ -1,4 +1,4 @@
-Tensorflow-CNN-Comparisons is a repo dedicated to testing different paramters in Tensorflow.
+Tensorflow-CNN-Comparisons is a repo dedicated to testing different optimizers on the same data and same model architecture in Tensorflow.
 
 
 # Dependencies
